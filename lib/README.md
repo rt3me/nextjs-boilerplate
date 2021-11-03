@@ -1,4 +1,5 @@
 # Contents of 'lib' directory
+
 * All utilities used by React components or API routes
 * Data fetching, library initialization, Prisma setup, database access, a fetcher for SWR, the easy-peasy store
 * Anything that could be reused anywhere but it’s not a component
