@@ -5,14 +5,14 @@
 * Anything that could be reused anywhere but it’s not a component
 * These can be included like this:
 
-```
+``` shell
 import comp from components/Common/comp
 import x from lib/x
 ```
 
 * by setting up jsconfig.json
 
-```
+``` json
 {
   "compilerOptions": {
     "baseUrl": "."
